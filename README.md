@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @WH-Anshul
-- 👀 I’m interested in Cybersecurity and Graphics Designing
-- 🌱 I’m currently learning CPP and SQL
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on interesting projects that will help me in building a great resume
 - 📫 How to reach me email-anshmeshram15@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
